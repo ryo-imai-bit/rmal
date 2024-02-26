@@ -1,0 +1,8 @@
+[package]
+name = "rmal"
+
+[dependencies]
+
+[[bin]]
+name = "step0_repl"
+path = "step0_repl.rs"
