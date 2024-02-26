@@ -1,4 +1,4 @@
-# rmal - Make a Lisp in RUst
+# rmal - Make a Lisp in Rust
 
 [Mal](https://github.com/kanaka/mal) implementation in Rust
 
